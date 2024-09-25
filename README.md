@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @uni-pirruccio
+- 👀 I’m studying Digital Humanitis
+- 🌱 I’m learning text encoding
