@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<noNested>
+    <nested> 
+        questo è un elemento annidato
+    </nested>
+
+    <nogood>
+
+        <error>
+
+    </nogood>
+
+        </error>
+
+</noNested>
